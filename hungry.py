@@ -3,6 +3,7 @@ hungry = input("Are you hungry? (yes/no): ").strip().lower()
 if hungry == "yes":
     print("Eat a samosa!")
     print("pizza")
+    print("fries")
 else:
     thirsty = input("Are you thirsty? (yes/no): ").strip().lower()  
     if thirsty == "yes":  
